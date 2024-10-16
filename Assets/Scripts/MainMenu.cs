@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-using UnityEngine.Video;  // Zorg ervoor dat je deze namespace toevoegt
+using UnityEngine.Video;
 
 public class MainMenu : MonoBehaviour
 {
@@ -53,3 +53,14 @@ public class MainMenu : MonoBehaviour
     }
 
     // Functie om het leaderboard te tonen wanneer op de Leaderboard-knop wordt gedrukt
+    public void ShowLeaderboard()
+    {
+        SceneManager.LoadScene("LeaderboardScene"); // Dit moet later worden aangepast met de juiste scenenaam
+    }
+
+    // Functie om het spel af te sluiten
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
+}

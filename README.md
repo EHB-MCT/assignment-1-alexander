@@ -24,12 +24,12 @@ TheLine is a unique single-player game where players draw a line to navigate fro
 ## Startup
 1. Clone het repository:
    ```bash
-   git clone https://github.com/EHB-MCT/assignment-1-alexander.git
+   git clone https://github.com/EHB-MCT/TheLine.git
 
 ## License
-This product is distributed under a proprietary license. You can review the full license agreement at the following link: [Standard License Agreement for Abblix OIDC Server](link-naar-je-licentie).
+This product is distributed under a proprietary license. You can review the full license agreement at the following link: https://github.com/EHB-MCT/TheLine?tab=MIT-1-ov-file
 
 For non-commercial use, this product is available for free.
 
 ## Attribution
-- Special thanks to [ChatGPT](https://chatgpt.com/share/67101848-7384-8003-b00e-a0e3b6c176f7) voor het ontwerp van de gebruikersinterface.
+- Special thanks to [ChatGPT](https://chatgpt.com/share/67101848-7384-8003-b00e-a0e3b6c176f7) for helping to estabish my starter file.
